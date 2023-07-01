@@ -1,4 +1,5 @@
 # belly-button-challenge
+http://127.0.0.1:5500/belly-button-challenge/Starter_Code/index.html
 Welcome to the Belly Button Biodiversity Interactive Dashboard!
 
 This dashboard allows you to delve into the fascinating world of microbial diversity found in human navels. The dataset reveals intriguing insights, showing that a small handful of microbial species, known as operational taxonomic units (OTUs), were present in more than 70% of people, while the rest were relatively rare.
